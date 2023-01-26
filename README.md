@@ -1,3 +1,4 @@
+hosted link Try it: https://dynamic-stardust-2fca24.netlify.app/
 **Decentralize Instagram with Solana Blockchain**
 **Deploy Smartcontract through beta.solpg.io**
 # Seahorse python
